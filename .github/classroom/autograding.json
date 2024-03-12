@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "check",
+      "setup": "",
+      "run": "python3 add.py",
+      "input": "",
+      "output": "5",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
